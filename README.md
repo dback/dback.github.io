@@ -1,3 +1,3 @@
 ## David Backeberg
 
- [View my GitHub Profile](http://dback.github.com/).
+ [View my GitHub Profile](http://github.com/dback).
